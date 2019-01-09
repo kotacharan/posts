@@ -18,3 +18,8 @@
 18. d/b web and app servers?
 19. how do you remove the exisiting workspace in my current jenkins pipeline?
 20. how to identify the latest changes over git ?
+21. How to used to access mongodb from aws service?Is there is any possibility to implement to in aws?
+22. How to upload all the dependenices of lambda functions?
+23. What is requirement.txt in lambda?
+24. Did you involved end to end implementation of aws iot?
+
